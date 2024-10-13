@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4a93987-22c3-4e01-9db9-241852ae7893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TPCondicionalesJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ej1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ej2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ej3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ej4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ej5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ej6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ej7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,30 +22,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2nLTxNHpIZFRG8Hnw467jgHfp9S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ej1.executor": "Run",
-    "Application.ej2.executor": "Run",
-    "Application.ej3.executor": "Run",
-    "Application.ej4.executor": "Run",
-    "Application.ej5.executor": "Run",
-    "Application.ej6.executor": "Run",
-    "Application.ej7.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/lauti/Desktop/Python - Java/TPCondicionalesJava/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ej1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ej2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ej3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ej4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ej5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ej6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ej7.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lauti/Desktop/Python - Java/TPCondicionalesJava/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ej7">
     <configuration name="ej3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ej3" />
